@@ -42,6 +42,8 @@ Turtle\_catch\_them\_all/
 - Python 3.12  
 - turtlesim package  
 
+To install dependencies in your environment:
+         pip install -r requirements.txt
 ---
 
 ## ⚙️ Installation
