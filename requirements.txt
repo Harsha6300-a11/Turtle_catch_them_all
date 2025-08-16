@@ -1,0 +1,9 @@
+# Core ROS2 Python client library
+rclpy>=3.2.0
+
+# Standard ROS2 message libraries
+geometry_msgs>=4.2.0
+turtlesim>=1.4.2
+
+# Additional useful libraries (if needed)
+numpy>=1.24.0
